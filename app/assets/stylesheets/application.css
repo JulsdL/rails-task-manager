@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+ .my-form-container {
+  margin-left: 20px;
+}
